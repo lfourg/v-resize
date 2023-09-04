@@ -1,0 +1,21 @@
+{
+  "name": "anov-resize",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/anov-resize.umd.js",
+  "module": "dist/anov-resize.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "dist",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "vite": "^4.4.9",
+    "vue": "^3.3.4"
+  }
+}
